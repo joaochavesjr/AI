@@ -5,9 +5,12 @@
 - Install dependencies from requirements.txt;
 
 Execute:
-   pyenv/bin/streamlit run app_ai.py
+
+   - pyenv/bin/streamlit run app_ai.py
 
 
 References:
-  https://ollama.com
-  https://streamlit.io
+
+  - https://ollama.com
+  
+  - https://streamlit.io
